@@ -12,7 +12,7 @@
 
 - Contact me at halavihina@gmail.com 
 
-- Blog: [北山落叶](kitayamalamari.netlify.app)
+- Blog: [北山落叶](https://kitayamalamari.netlify.app/)
 
 - They/Them
   
