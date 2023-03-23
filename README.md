@@ -1,6 +1,6 @@
 ### Hi 👋
 
-##### About Me
+#### About Me
 
 - An undergrate student majoring in Math
 
@@ -18,6 +18,6 @@
   
   [![KitayamaLaMari's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitayamaLaMari)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Programming Languages
+#### Programming Languages
 
 - C++ / Python / Matlab
