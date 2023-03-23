@@ -15,8 +15,8 @@
 - Blog: [北山落叶](kitayamalamari.netlify.app)
 
 - They/Them
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![KitayamaLaMari's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitayamaLaMari)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Programming Languages
 
