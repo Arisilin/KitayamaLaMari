@@ -2,11 +2,11 @@
 
 #### world.execute(me)
 
-- An undergrate student majoring in Math
+- An undergraduate student majoring in Math
 
-- Interested in the recognitive process in human brain and design of artificial intelligence
+- Interested in the cognitive process in human brain and design of artificial intelligence
 
-- Sometimes make little things with my code, also playing CTF
+- Sometimes make small coding projects with my code, also playing CTF
 
 - Speak ``zh-cn`` & `en`, currently learning `fr`
 
