@@ -6,7 +6,7 @@
 
 - Interested in the cognitive process in human brain and design of artificial intelligence
 
-- Sometimes make small coding projects with my code, also playing CTF
+- Sometimes make small projects with my code, also playing CTF
 
 - Speak ``zh-cn`` & `en`, currently learning `fr`
 
