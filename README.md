@@ -14,7 +14,7 @@
 
 - Blog: [北山落叶](https://kitayamalamari.netlify.app/)
 
-- They/Them(Under HRT)
+- They/Them(Under HRT) 🏳️‍⚧️
   
   [![KitayamaLaMari's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitayamaLaMari)](https://github.com/anuraghazra/github-readme-stats)
 
